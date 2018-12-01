@@ -47,3 +47,35 @@ nav span {
   display: inline-block;
   padding: 20px 10px;
 }
+/* Main Section */
+
+.main {
+  padding-top: 69px;
+  opacity: 0.9;
+  width: 1200px;
+  margin: auto;
+}
+/* Mission Section */
+
+#mission {
+  height: 700px;
+  background-image: url("../images/teabackground.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  padding-top: 70px;
+}
+
+#mission .content {
+  margin: auto;
+  background-color: black;
+  width: 100%;
+}
+
+/* Store Section */
+
+#store {
+  height: 700px;
+  width: 1000px;
+  margin: auto;
+  padding-top: 70px;
+}
